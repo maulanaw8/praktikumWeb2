@@ -31,8 +31,8 @@
     <?php
     if (empty($nilai)) : ?>
     <form action="" method="post">
-        Jumlah Bintang: <input type="text" name="nilai">
-        <button type="submit" name="masuk">Masukkan Nilai</button>
+        Jumlah Bintang: <input type="text" name="nilai"><br>
+        <button type="submit" name="masuk">Submit</button>
     </form>
 
     <?php
